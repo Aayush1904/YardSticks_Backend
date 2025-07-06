@@ -122,6 +122,8 @@ npm run dev
 
 ---
 
+Deployed Link : https://yardsticks-backend.onrender.com
+
 ## 🤝 Contributing
 
 We welcome contributions! Feel free to fork, raise issues, or open pull requests.
